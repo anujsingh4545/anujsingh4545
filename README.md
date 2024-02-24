@@ -15,10 +15,10 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🔭 I’m working as a SDE and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical World.
 - ⚡ In my free time I solve problems on Leetcode & GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/theanujksingh/)
+- 📫 Open for (Web Dev / SDE / SE) Roles.
 
 ---
 
