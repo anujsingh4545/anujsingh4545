@@ -2,8 +2,9 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/theanujksingh/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://www.leetcode.com/theanujkumarsingh/"><img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"></a>
-<a href="https://auth.geeksforgeeks.org/user/anujsingh55/practice"><img src="https://img.shields.io/badge/GeeksforGeeks-blue?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks Badge"></a>
-<a href="https://www.hackerrank.com/profile/theanujksingh"><img src="https://img.shields.io/badge/HackerRank-yellow?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"></a>
+<a href="https://anujksingh.vercel.app/"><img src="https://img.shields.io/badge/portfolio-red?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"></a>
+<a href="https://auth.geeksforgeeks.org/user/anujsingh55/practice"><img src="https://img.shields.io/badge/GeeksforGeeks-yellow?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks Badge"></a>
+<a href="https://www.hackerrank.com/profile/theanujksingh"><img src="https://img.shields.io/badge/HackerRank-blue?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"></a>
 </p>
 <p align="center">
 
@@ -52,9 +53,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### 🔥 &nbsp; My Stats :
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anujsingh4545&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anujsingh4545&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anujsingh4545&theme=vision-friendly-dark)](https://github.com/anujsingh4545/github-readme-stats)
+![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=anujsingh4545&show_icons=true&theme=radical)
 
 ---
