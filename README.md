@@ -56,4 +56,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anujsingh4545&theme=vision-friendly-dark)](https://github.com/anujsingh4545/github-readme-stats)
 ![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=anujsingh4545&show_icons=true&theme=radical)
 
+<img align="centre" src="https://github-profile-trophy.vercel.app/?username=anujsingh4545&ryo-ma&no-frame=true&theme=oldie&margin-w=15&title=Issue,Stars,Repo,Commit,PR,Followers"/>
+
 ---
+
+  
