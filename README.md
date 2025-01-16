@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/theanujksingh/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://www.leetcode.com/theanujkumarsingh/"><img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"></a>
-<a href="https://anujksingh.vercel.app/"><img src="https://img.shields.io/badge/portfolio-red?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.anujksingh.tech/" target ="_blank" ><img src="https://img.shields.io/badge/portfolio-red?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"></a>
 <a href="https://auth.geeksforgeeks.org/user/anujsingh55/practice"><img src="https://img.shields.io/badge/GeeksforGeeks-yellow?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks Badge"></a>
 <a href="https://www.hackerrank.com/profile/theanujksingh"><img src="https://img.shields.io/badge/HackerRank-blue?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"></a>
 </p>
